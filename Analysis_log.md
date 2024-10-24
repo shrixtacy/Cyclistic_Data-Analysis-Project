@@ -23,6 +23,9 @@ The analysis focused on understanding usage patterns through:
 - Analyzing usage by day of the week.
 - Visualizing ride counts and average ride lengths.
 
+![30db8def-3f24-468a-8d2c-e58b7d1be637](https://github.com/user-attachments/assets/70e9bde2-c322-467b-802a-b7034330684c)
+
+
 Key insights were derived regarding the different behaviors of casual riders and annual members.
 
 ## Recommendations
