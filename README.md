@@ -36,4 +36,4 @@ By understanding the distinct needs of casual riders, Cyclistic can create targe
 ## How to Run the Analysis
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/cyclistic-bike-share-analysis.git
+   https://github.com/shrixtacy/Cyclistic_Data-Analysis-Project/blob/main/Cyclistic%20Analysis%20in%20R%20lang
